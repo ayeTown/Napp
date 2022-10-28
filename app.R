@@ -1,12 +1,4 @@
 
-# To do
-# fix edge weight colors
-# summary of number of up/dpwn regulated?
-# readme for different types of datasets (how to best utilize the app for your usecase)
-  # possibly use a vignette
-# start a github repo for this project
-
-# library(BiocManager)
 # options(repos = BiocManager::repositories())
 
 # Libraries
